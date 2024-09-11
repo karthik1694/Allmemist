@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage": "https://allmemist.onrender.com/allmemist",
+=======
+  "homepage": "https://allmemist.onrender.com/allmemist"
+>>>>>>> d27f44f3b1ab72a32482827ca1e23087e9c5a90b
   "name": "allmemist",
   "private": true,
   "version": "0.0.0",

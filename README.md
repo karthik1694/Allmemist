@@ -23,3 +23,4 @@ Allmemist is a web app that brings detailed info about your favorite anime serie
 - Node.js
 - npm (Node Package Manager)
 
+![image](https://github.com/user-attachments/assets/df741c2c-78ec-488d-9920-4d8bcd3b7809)

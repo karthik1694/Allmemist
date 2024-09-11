@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;        
+
+@font-face {
+    font-family: "Readex Pro Bold";
+    src: url(./fonts/ReadexPro-Bold.ttf);
+}
+@font-face {
+    font-family: "Readex Pro Medium";
+    src: url(./fonts/ReadexPro-Medium.ttf);
+}
+@font-face {
+    font-family: "Readex Pro Regular";
+    src: url(./fonts/ReadexPro-Regular.ttf);
+}
+
+.bg{
+    background-image: url("./assets/bg.png");
+    
+}
+
+  ::-webkit-scrollbar{
+    width: 0;
+  }
+
+  ::selection {
+    color: red;
+    background: #2f2f35;
+  }
